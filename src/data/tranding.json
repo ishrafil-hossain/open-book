@@ -1,93 +1,62 @@
 [
     {
-        "title": "Tranding Book",
         "id": 1,
-        "img": "https://covers.openlibrary.org/b/id/8231990-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 2,
-        "img": "https://covers.openlibrary.org/b/id/6424160-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 3,
-        "img": "https://covers.openlibrary.org/b/id/10473609-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 4,
-        "img": "https://covers.openlibrary.org/b/id/12749873-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 5,
-        "img": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 6,
-        "img": "https://covers.openlibrary.org/b/id/10926303-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 7,
-        "img": "https://covers.openlibrary.org/b/id/8315302-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 8,
-        "img": "https://covers.openlibrary.org/b/id/6982482-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 9,
-        "img": "https://covers.openlibrary.org/b/id/8747160-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 10,
-        "img": "https://covers.openlibrary.org/b/id/12504366-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 11,
-        "img": "https://covers.openlibrary.org/b/id/12699297-M.jpg",
+        "img": "",
         "btn": "Borrow"
     },
     {
         "id": 12,
-        "img": "https://covers.openlibrary.org/b/id/8888850-M.jpg",
-        "btn": "Borrow"
-    },
-    {
-        "id": 13,
-        "img": "https://covers.openlibrary.org/b/id/10858579-M.jpg",
-        "btn": "Borrow"
-    },
-    {
-        "id": 14,
-        "img": "https://covers.openlibrary.org/b/id/9614548-M.jpg",
-        "btn": "Borrow"
-    },
-    {
-        "id": 15,
-        "img": "https://covers.openlibrary.org/b/id/489941-M.jpg",
-        "btn": "Borrow"
-    },
-    {
-        "id": 16,
-        "img": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
-        "btn": "Borrow"
-    },
-    {
-        "id": 17,
-        "img": "https://covers.openlibrary.org/b/id/12439714-M.jpg",
-        "btn": "Borrow"
-    },
-    {
-        "id": 18,
-        "img": "https://covers.openlibrary.org/b/id/597940-M.jpg?default=%27https://openlibrary.org/images/icons/avatar_book.png%27",
+        "img": "",
         "btn": "Borrow"
     }
 ]

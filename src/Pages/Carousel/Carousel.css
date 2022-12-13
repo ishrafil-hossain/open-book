@@ -1,0 +1,11 @@
+
+
+.slide-content>img{
+    height: 200px;
+    width: 130px;
+}
+
+.slide-content{
+    background-color: #F3EDD7;
+    padding: 20px;
+}

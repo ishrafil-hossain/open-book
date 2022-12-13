@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "img": "https://covers.openlibrary.org/w/id/8257693-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 2,
+      "img": "https://ia904702.us.archive.org/view_archive.php?archive=/19/items/m_covers_0008/m_covers_0008_23.tar&file=0008231793-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 3,
+      "img": "https://covers.openlibrary.org/w/id/963147-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 4,
+      "img": "https://covers.openlibrary.org/w/id/9255229-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 5,
+      "img": "https://covers.openlibrary.org/w/id/421244-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 6,
+      "img": "https://covers.openlibrary.org/w/id/12816943-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 7,
+      "img": "https://covers.openlibrary.org/w/id/6993503-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 8,
+      "img": "https://covers.openlibrary.org/w/id/12049134-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 9,
+      "img": "https://ia904702.us.archive.org/view_archive.php?archive=/19/items/m_covers_0008/m_covers_0008_23.tar&file=0008234423-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 10,
+      "img": "https://covers.openlibrary.org/w/id/8457060-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 11,
+      "img": "https://covers.openlibrary.org/w/id/10521270-M.jpg",
+      "btn": "Borrow"
+    },
+    {
+      "id": 12,
+      "img": "https://covers.openlibrary.org/w/id/4704860-M.jpg",
+      "btn": "Borrow"
+    }
+  ]

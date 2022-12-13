@@ -1,29 +1,21 @@
 import { Navigation, Pagination, A11y } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
-import './TrandingBooks.css'
+import './Carousel.css'
 
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-import { Button, Card } from 'react-bootstrap';
-import { useEffect, useState } from 'react';
 // import 'swiper/css/scrollbar';
 
-const TrandingBooks = () => {
-    const trand = "Tranding Books"
-    const [books, setBooks] = useState([]);
-
-    useEffect(() => {
-        fetch('tranding.json')
-            .then(res => res.json())
-            .then(data => setBooks(data))
-    }, [])
+const TrandingBooks = (props) => {
+    const {name, books} = props
+   
     return (
-        <div className='m-5 '>
-            <h2 className='container text-start'>{trand}</h2>
-            <Swiper className='container'
+        <div className='container bg-white'>
+            <h2 className='container text-start'>{name}</h2>
+            <Swiper className=''
                 modules={[Navigation, Pagination, A11y]}
                 // spaceBetween={10}
                 slidesPerView={6}
@@ -36,9 +28,9 @@ const TrandingBooks = () => {
                 <div>
                     
                     {
-                        books.map(book => <SwiperSlide className='slide-content'>
+                       books.map(book => <SwiperSlide className='slide-content'>
                             <img src={book.img} alt="" />
-                            <h2 className='m-2 bg-primary'>{book.btn}</h2>
+                            <h4 className='m-2 bg-primary'>{book.btn}</h4>
                         </SwiperSlide>)
                     }
                 </div>
