@@ -1,0 +1,44 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    text-align: start;
+}
+
+p {
+    font-weight: bold;
+    color: #333333;
+}
+
+.library>a {
+    display: flex;
+    color: #003A69;
+
+}
+
+.footer-second {
+    border-top: 1px solid rgb(187, 185, 185);
+}
+
+.footer-end {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    text-align: start;
+    padding-bottom: 30px;
+}
+
+.footer-end>div>img {
+    width: 25px;
+    height: 27px;
+    margin-right: 10px;
+}
+
+.end-text {
+    line-height: 15px;
+}
+
+.end-text>span>a {
+    color: #003A69;
+}

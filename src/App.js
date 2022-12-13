@@ -1,5 +1,6 @@
 import './App.css';
 import Carousel from "./Pages/Carousel/Carousel";
+import Footer from './Pages/Footer/Footer';
 import Header from './Pages/Header/Header';
 import Navbar from './Pages/Navbar/Navbar';
 import Open from './Pages/Open/Open';
@@ -24,6 +25,7 @@ function App() {
       <Carousel name={"Thrillers"} books ={book.trandings}/>
       <Carousel name={"Textbooks"} books ={book.classics}/>
       <Carousel name={"Authors Alliance & MIT Press"} books ={book.loves}/>
+      <Footer/>
     </div>
   );
 }
