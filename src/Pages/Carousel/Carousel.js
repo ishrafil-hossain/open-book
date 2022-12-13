@@ -10,11 +10,12 @@ import 'swiper/css/pagination';
 // import 'swiper/css/scrollbar';
 
 const TrandingBooks = (props) => {
-    const {name, books} = props
-   
+    const { name, books } = props
+
     return (
         <div className='container bg-white'>
-            <h2 className='container text-start'>{name}</h2>
+           
+            <h4 className='container text-start pt-5'>{name}</h4>
             <Swiper className=''
                 modules={[Navigation, Pagination, A11y]}
                 // spaceBetween={10}
@@ -26,9 +27,9 @@ const TrandingBooks = (props) => {
                 onSlideChange={() => console.log('slide change')}
             >
                 <div>
-                    
+
                     {
-                       books.map(book => <SwiperSlide className='slide-content'>
+                        books.map(book => <SwiperSlide className='slide-content'>
                             <img src={book.img} alt="" />
                             <h4 className='m-2 bg-primary'>{book.btn}</h4>
                         </SwiperSlide>)

@@ -1,0 +1,22 @@
+.open-content{
+    width: 310px;
+    height: 122px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FCFBF7;
+}
+
+.open-content>img {
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}
+
+.info{
+    width: 175px;
+    height: 88px;
+    text-align: left;
+    padding: 5px;
+    line-height: 13px;
+}

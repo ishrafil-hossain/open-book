@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "img": "https://openlibrary.org/static/images/onboarding/read.png",
+      "title": "Read Free Library Books Online",
+      "dec": "Millions of books available through Controlled Digital Lending"
+    },
+
+    {
+      "id": 2,
+      "img": "https://openlibrary.org/static/images/onboarding/track.png",
+      "title": "Keep Track of your Favorite Books",
+      "dec": "Organize your Books using Lists & the Reading Log"
+    },
+    {
+      "id": 3,
+      "img": "https://openlibrary.org/static/images/onboarding/library_explorer.png",
+      "title": "Try the virtual Library Explorer",
+      "dec": "Digital shelves organized like a physical library"
+    },
+    {
+      "id": 4,
+      "img": "https://openlibrary.org/static/images/onboarding/fulltext.png",
+      "title": "Try Fulltext Search",
+      "dec": "Find matching results within the text of millions of books"
+    },
+    {
+      "id": 5,
+      "img": "https://openlibrary.org/static/images/onboarding/librarian.png",
+      "title": "Be an Open Librarian",
+      "dec": "Dozens of ways you can help improve the library"
+    },
+    {
+      "id": 6,
+      "img": "https://openlibrary.org/static/images/onboarding/feedback.png",
+      "title": "Send us feedback",
+      "dec": "Your feedback will help us improve these cards"
+    }
+]

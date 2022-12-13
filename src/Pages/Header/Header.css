@@ -1,0 +1,30 @@
+.header{
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sign-up{
+    background-color: #0376B8;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+
+.header-logo>img{
+    width: 189px;
+    height: 47px;
+}
+
+.togler-btn{
+    width: 22px;
+    height: 22px;
+}
+
+.text{
+    text-decoration: none;
+    color: #333333;
+    font-size: 18px;
+}

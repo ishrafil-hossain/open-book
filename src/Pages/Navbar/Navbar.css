@@ -1,0 +1,18 @@
+.navbar {
+    height: 40px;
+    background-color: #333333;
+}
+
+.navbar-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white
+}
+
+.nav-btn {
+   color: white;
+   background-color: #333333;
+   border: 1px solid #999999;
+   border-radius: 5px;
+}
