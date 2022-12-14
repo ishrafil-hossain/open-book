@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "img": "https://openlibrary.org/static/images/categories/art.svg",
+      "title": "Art",
+      "dec": "81,888 Books"
+    },
+    {
+      "id": 2,
+      "img": "https://openlibrary.org/static/images/categories/science_fiction.svg",
+      "title": "Science Fiction",
+      "dec": "18,034 Books"
+    },
+    {
+      "id": 3,
+      "img": "https://openlibrary.org/static/images/categories/fantasy.svg",
+      "title": "Fantasy",
+      "dec": "13,027 Books"
+    },
+    {
+      "id": 4,
+      "img": "https://openlibrary.org/static/images/categories/biographies.svg",
+      "title": "Biographies",
+      "dec": "20,566 Books"
+    },
+    {
+      "id": 5,
+      "img": "https://openlibrary.org/static/images/categories/recipes.svg",
+      "title": "Recipes",
+      "dec": "9,066 Books"
+    },
+    {
+      "id": 6,
+      "img": "https://openlibrary.org/static/images/categories/romance.svg",
+      "title": "Romance",
+      "dec": "20,170 Books"
+    },
+    {
+      "id": 7,
+      "img": "https://openlibrary.org/static/images/categories/textbooks.svg",
+      "title": "TextBooks",
+      "dec": "25,659 Books"
+    },
+    {
+      "id": 8,
+      "img": "https://openlibrary.org/static/images/categories/children.svg",
+      "title": "Children",
+      "dec": "49,659 Books"
+    },
+    {
+      "id": 9,
+      "img": "https://openlibrary.org/static/images/categories/history.svg",
+      "title": "History",
+      "dec": "1,737,447 Books"
+    },
+    {
+      "id": 10,
+      "img": "https://openlibrary.org/static/images/categories/medicine.svg",
+      "title": "Medicine",
+      "dec": "42,854 Books"
+    },
+    {
+      "id": 11,
+      "img": "https://openlibrary.org/static/images/categories/religion.svg",
+      "title": "Religion",
+      "dec": "102,552 Books"
+    },
+    {
+      "id": 12,
+      "img": "https://openlibrary.org/static/images/categories/mystery_and_detective_stories.svg",
+      "title": "Mystery and Detective Stories",
+      "dec": "14,047 Books"
+    }
+
+   
+]

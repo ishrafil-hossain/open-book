@@ -1,0 +1,17 @@
+.about-info {
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+}
+
+.about-head,
+.small,
+.small>h5,
+.small>p {
+    color: #333;
+    font-weight: 400;
+}
+
+.about-info-div {
+    width: 439px;
+}

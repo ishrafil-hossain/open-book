@@ -1,28 +1,21 @@
-import { Navigation, Pagination, A11y } from 'swiper';
-
+import { Navigation, A11y } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import './Carousel.css'
 
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-// import 'swiper/css/scrollbar';
 
 const TrandingBooks = (props) => {
     const { name, books } = props
 
     return (
         <div className='container bg-white'>
-           
             <h4 className='container text-start pt-5'>{name}</h4>
             <Swiper className=''
-                modules={[Navigation, Pagination, A11y]}
-                // spaceBetween={10}
+                modules={[Navigation, A11y]}
                 slidesPerView={6}
                 navigation
-                pagination={{ clickable: true }}
-                //   scrollbar={{ draggable: true }}
                 onSwiper={(swiper) => console.log(swiper)}
                 onSlideChange={() => console.log('slide change')}
             >

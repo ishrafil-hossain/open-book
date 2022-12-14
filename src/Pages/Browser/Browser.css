@@ -1,0 +1,21 @@
+
+.browser{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.browser-content>img {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.browser-info{
+    line-height: 15px;
+}
+
+.browser-info>small{
+    color: #666;
+    font-style: italic;
+}
